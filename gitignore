@@ -1,0 +1,104 @@
+# Byte-dikompilasi / dioptimalkan / file DLL
+__pycache __ /
+* .py [cod]
+* $ py.class
+
+# C ekstensi
+*.begitu
+
+# Distribusi / pengemasan
+.Python
+membangun/
+mengembangkan telur /
+dist /
+unduhan /
+telur/
+.telur/
+lib /
+lib64 /
+bagian /
+sdist /
+var /
+roda /
+* .egg-info /
+.installed.cfg
+*.telur
+NYATA
+
+# PyInstaller
+# Biasanya file-file ini ditulis oleh skrip python dari template
+# sebelum PyInstaller membangun exe, sehingga menyuntikkan tanggal / info lain ke dalamnya.
+*.nyata
+* .spec
+
+# Log pencatat
+pip-log.txt
+pip-delete-this-directory.txt ini
+
+# Tes unit / laporan cakupan
+htmlcov /
+.tox /
+.coverage
+.coverage. *
+.cache
+nosetests.xml
+coverage.xml
+*.penutup
+.hipotesa/
+.pytest_cache /
+
+# Translations
+* .mo
+*.pot
+
+# Barang Django:
+* .log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+contoh/
+.webassets-cache
+
+# Hal-hal yang mengerikan:
+.scrapy
+
+# Dokumentasi Sphinx
+dokumen / _build /
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-versi
+
+# seledri mengalahkan file jadwal
+jadwal seledri
+
+# SageMath mem-parsing file
+* .sage.py
+
+# Lingkungan
+.env
+.venv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+
+# Pengaturan proyek Spyder
+.spyderproject
+.spyproject
+
+# Pengaturan proyek tali
+.ropeproject
+
+Dokumentasi # mkdocs
+/ situs
+
+# mypy
+.mypy_cache /
